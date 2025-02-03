@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	width: 100%;
+	height: 26px;
+}
+
+.first {
+	width: 3.5%;
+	float: left;
+	padding-left: 10px;
+}
+
+.second {
+	width: 88%;
+	float: left;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	padding-top: 8px;
+}
+
+.bodypart {
+	width: 100%;
+	text-align: center;
+}
+
+.bodypart1 {
+	width: 52%;
+	float: left;
+	border: 0px solid maroon;
+	padding-top: 5%; img { height : 200px;
+	width: 200px;
+}
+
+}
+.bodypart2 {
+	width: 42%;
+	float: left;
+	border: 0px solid green;
+	padding-top: 8%;
+}
+
+.formcontrol {
+	width: 200px;
+	height: 25px;
+}
+
+.label {
+	font-size: 35px;
+}
+
+button {
+	background-color: darkblue;
+	color: white;
+	width: 160px;
+	height: 30px;
+	font-size: 15px;
+	font-weight: bold;
+	
+}
+
+.userhome {
+	text-align: left;
+	font-size: 30px;
+	font-weight: bold;
+	padding:13px;
+}
+
+.heading {
+	font-size: 30px;
+}
+.addbtn {
+	float:right;
+	background-color: SteelBlue;
+	color:White;
+	
+}
+table {
+	width:99%;
+	margin:0 auto auto;
+}
+
+td {
+	padding:10px;
+	text-align:left;
+}
